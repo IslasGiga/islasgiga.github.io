@@ -38,9 +38,9 @@ h2 {
   font-size: 1.35rem; }
 
 .list-social-icons a {
-  color: #495057; }
+  color: #9138be; }
   .list-social-icons a:hover {
-    color: #BD5D38; }
+    color: #9138be; }
   .list-social-icons a .fa-lg {
     font-size: 1.75rem; }
 
@@ -104,12 +104,12 @@ section.resume-section {
     padding-bottom: 3rem !important; } }
 
 .bg-primary {
-  background-color: #BD5D38 !important; }
+  background-color: #9138bd !important; }
 
 .text-primary {
-  color: #BD5D38 !important; }
+  color: #9138bd !important; }
 
 a {
-  color: #BD5D38; }
+  color: #9138bd; }
   a:hover, a:focus, a:active {
-    color: #824027; }
+    color: #572782; }
